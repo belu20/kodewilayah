@@ -1,0 +1,2 @@
+dependencies yang dubutuhkan
+1. pip install selenium pymongo webdriver-manager
